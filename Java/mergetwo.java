@@ -1,16 +1,16 @@
 import java.util.*;
 
-public class skeleton {
-    public int xampl(int a, int b) {
+public class mergetwo {
+    public int merging(int a, int b) {
         return a+b;
     }
 
     public static void main(String[] args) {
-        skeleton skaltan = new skeleton();
+        mergetwo morg = new mergetwo();
 
         int a = 0;
         int b = 0;
-        int result = skaltan.xampl(a, b);
+        int result = morg.merging(a, b);
 
         System.out.println(result);
     }
