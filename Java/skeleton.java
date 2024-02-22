@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 public class skeleton {
     public int xampl(int a, int b) {
