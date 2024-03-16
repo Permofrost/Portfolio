@@ -12,6 +12,7 @@ public:
         vector<int> result;
 
         for(int i = 0; i < nums.size(); i++){
+        
             int complement = target - nums[i];
             if(map.find(complement) != map.end()){
                 result.push_back(map[complement]);
@@ -35,5 +36,3 @@ int main() {
     }
     return 0;
 }
-
-
