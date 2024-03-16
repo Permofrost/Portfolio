@@ -74,6 +74,9 @@
   "cmake.options.statusBarVisibility": "visible",
   "files.associations": {
     "*.py": "python",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "unordered_map": "cpp",
+    "functional": "cpp"
   }
 }
